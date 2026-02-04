@@ -1,0 +1,9 @@
+{
+    "dataset": {
+        "extension": "h5",
+        "h5_path": "tests/mock_xdmf_aneurysm",
+        "meta_path": "dataset_onecyl_Re100_gmsh/meta.json",
+        "targets": ["Vitesse"],
+        "khop": 1
+    }
+}
